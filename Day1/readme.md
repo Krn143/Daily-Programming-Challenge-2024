@@ -15,5 +15,5 @@ The problem can be efficiently solved using the Dutch National Flag Algorithm (o
 
 ### Implementations
 
-- [Python Solution]()
+- [Python Solution](Day1/Day1.py)
 
